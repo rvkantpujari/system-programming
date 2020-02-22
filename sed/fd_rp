@@ -1,0 +1,5 @@
+#find words to be replaced.
+s/Name/NAME/
+s/Email/EMAIL/
+s/City/CITY/
+s/Mobile/MOBILE/
