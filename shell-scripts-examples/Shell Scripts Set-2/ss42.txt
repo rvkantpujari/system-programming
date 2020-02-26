@@ -1,0 +1,16 @@
+clear
+if test $# -eq 1
+then
+  u=`w -h | grep -wc $1`
+  msg="Dear $1, if you're free then let's dine out tonight."
+  if test $u -eq 0
+  then
+	echo "$1 is offline..."
+	echo "Sending mail..."
+	echo $msg | mail $1		
+  else
+	echo $msg
+  fi
+else
+	echo "Please pass username as argument."
+fi

@@ -1,0 +1,19 @@
+clear
+echo "Please enter month1: "
+read m1
+echo "Please enter month2: "
+read m2
+
+if test $m1 -ge 1 -a $m1 -le 12
+then
+	cal -m $m1 
+else
+	echo "\nInvalid month1 entered.\n"
+fi
+
+if test $m2 -ge 1 -a $m2 -le 12
+then
+	cal -m $m2
+else
+	echo "\nInvalid month2 entered.\n"
+fi

@@ -1,0 +1,38 @@
+clear
+echo "Please enter month1: "
+read m1
+echo "Please enter month2: "
+read m2
+v=0
+if test $m1 -lt 1 -o $m1 -gt 12
+then
+	echo "Invalid month1 entered."
+	read x
+	clear
+	v=1
+fi
+if test $m2 -lt 1 -o $m2 -gt 12
+then
+	echo "Invalid month2 entered."
+	read x
+	clear
+	v=1
+fi
+
+if test $m1 -gt $m2
+then
+	echo "Month1 cannot be greater than Month2."
+	read x
+	clear
+	v=1
+fi
+
+if test $v -eq 0
+then
+	while test $m1 -le $m2
+	do
+		cal -m $m1
+		m1=`expr $m1 + 1`
+	done
+fi
+
