@@ -1,0 +1,1000 @@
+  161  ls
+  162  clear
+  163  ls
+  164  git init
+  165  git status
+  166  git add -A
+  167  git status
+  168  ls
+  169  clear
+  170  git status
+  171  git add -
+  172  git add 
+  173  git add .
+  174  git status
+  175  clear
+  176  git commit -m "Feb 19, 2020"
+  177  git remote add origin https://github.com/rvkantpujari/system-programming.git
+  178  git push -u origin master
+  179  git status
+  180  git add .
+  181  git status
+  182  git remote add origin https://github.com/rvkantpujari/system-programming.git
+  183  git push origin master
+  184  clear
+  185  git status
+  186  git reset
+  187  git status
+  188  ls
+  189  ls -a
+  190  rm -rf git
+  191  ls -a
+  192  rm -rf .git
+  193  ls -a
+  194  git status
+  195  clear
+  196  git status
+  197  git config --global user.name
+  198  git config --global user.email
+  199  clear
+  200  git init
+  201  git status
+  202  git add "static and dynamic libraries"/
+  203  git status
+  204  git reset
+  205  git status
+  206  git clone "git@github.com:rvkantpujari/system-programming.git"
+  207  ls
+  208  cd ..
+  209  ls
+  210  git clone "git@github.com:rvkantpujari/system-programming.git"
+  211  clear
+  212  git clone git@github.com:rvkantpujari/system-programming.git
+  213  ssh-keygen
+  214  clear
+  215  exit
+  216  cd Desktop
+  217  git clone https://github.com/rvkantpujari/system-programming.git .
+  218  ls
+  219  cd Repo
+  220  git clone https://github.com/rvkantpujari/system-programming.git .
+  221  cat > temp.txt
+  222  ls
+  223  rm -rf temp.txt 
+  224  ls
+  225  git clone https://github.com/rvkantpujari/system-programming.git .
+  226  ls -a
+  227  git status
+  228  git add .
+  229  git status
+  230  git commit -m "Feb 19, 2020"
+  231  git status
+  232  git push origin master
+  233  git status
+  234  git commit -m "Feb 19, 2020"
+  235  git add .
+  236  git commit -m "Feb 19, 2020"
+  237  git push origin master
+  238  clear
+  239  cd ~/Desktop/
+  240  ls
+  241  cd Desktop/
+  242  ls
+  243  find type -f
+  244  find -type f
+  245  clear
+  246  find -type f -size 0
+  247  find -type f -size +1k
+  248  find -type f -size +1k | ls
+  249  find -type d -size 0
+  250  find -type d -size0
+  251  find -type d -size 0
+  252  ls -l
+  253  find -type f -size +10k
+  254  find -type f -size +5k
+  255  find -type f -size +5K
+  256  find -type f -size +5k
+  257  clear
+  258  find -type f -size +5k
+  259  find --help
+  260  man find
+  261  find -type f -size +5k -maxdepth 0
+  262  man find
+  263  find -maxdepth 0 -type f -size +5k
+  264  clear
+  265  touch test.txt
+  266  find -maxdepth 0 -type f -size +5k
+  267  find -maxdepth 0 -type f -size 0
+  268  find -maxdepth 0 -type f -size 0k
+  269  find -maxdepth 0 -type f -size 0
+  270  find -type f -size 0
+  271  find -type f -maxdepth 0 -size 0
+  272  find -type f -size 0 -maxdepth 0
+  273  find -type f -size 0 -maxdepth
+  274  find -type f -empty
+  275  find -type f -size 0
+  276  find -type d -size 0
+  277  find -type d -empty
+  278  cd Repo/
+  279  ls
+  280  git add .
+  281  git status
+  282  git commit -m "Feb 19, 2020"
+  283  git push origin master
+  284  exit
+  285  tty
+  286  exit
+  287  screen
+  288  tty
+  289  exit
+  290  sudo apt install screen
+  291  wall
+  292  man wall
+  293  wall
+  294  clear
+  295  sudo apt-get update
+  296  clear
+  297  sudo apt-get install skype
+  298  sudo -i
+  299  clear
+  300  sudo sh -c "echo 'deb http://archive.canonical.com/ubuntu/ `lsb_release -cs` partner' >> /etc/apt/sources.list.d/skype.list""
+  301  sudo apt-get update
+  302  sudo apt-get install skype
+  303  sudo sh -c "echo 'deb http://archive.canonical.com/ubuntu/ `lsb_release -cs` partner' >> /etc/apt/sources.list.d/skype.list"
+  304  sudo add-apt-repository ppa:atareao/atareao
+  305  sudo apt-get update
+  306  sudo apt-get install my-weather-indicator
+  307  clear
+  308  sudo dpkg --get-selections
+  309  man wget
+  310  ping www.google.com
+  311  tracenet
+  312  tracenet www.google.com
+  313  clear
+  314  cd Desktop/cep/makefile-demo/
+  315  ls
+  316  gcc add.c sub.c -o main.out
+  317  clear
+  318  gcc add.c sub.c main.c -o main.out
+  319  touch Makefile
+  320  make
+  321  make compile
+  322  make
+  323  rm -rf *.o
+  324  make
+  325  rm -rf *.o
+  326  rm -rf main.out 
+  327  make
+  328  ./main.out 
+  329  make
+  330  rm -rf main.out 
+  331  rm -rf *.o
+  332  make
+  333  make clean
+  334  clera
+  335  clear
+  336  make
+  337  make clean
+  338  make
+  339  clear
+  340  make clean
+  341  make
+  342  make clean
+  343  make
+  344  clear
+  345  cd ..
+  346  cd makefile/
+  347  ls
+  348  make clean
+  349  clear
+  350  make
+  351  ./main.out
+  352  make
+  353  ./main.out 
+  354  make
+  355  ./main.out 
+  356  make
+  357  ./main.out 
+  358  make
+  359  ./main.out 
+  360  make
+  361  ./main.out 
+  362  make
+  363  ./main.out 
+  364  make
+  365  ./main.out 
+  366  clear
+  367  make clean
+  368  make
+  369  ./main.out 
+  370  cd ../
+  371  ls
+  372  cd ..
+  373  ls
+  374  cd Repo/
+  375  clear
+  376  ls
+  377  git status
+  378  git add .
+  379  git status
+  380  git commit -m "Feb 20, 2020"
+  381  git status
+  382  git push origin master
+  383  clear
+  384  ch shell-scripts-1/
+  385  cd shell-scripts-1/
+  386  clear
+  387  ls
+  388  cat data.sh | cut -k " " -f1
+  389  cat data.sh | cut -d " " -f1
+  390  at data.sh | cut -d " " -f1 | sort
+  391  at data.sh | cut -d " " -f1
+  392  cat data.sh | cut -d " " -f1 | sort
+  393  cat data.sh | cut -d " " -f1
+  394  cat data.sh | cut -d " " -f1 >> cut-data-by-name.sh 
+  395  echo 'cat data.sh | cut -d " " -f1' >> cut-data-by-name.sh 
+  396  echo 'cat data.sh | cut -d " " -f1' > cut-data-by-name.sh 
+  397  cat data.sh | cut -d " " -f4
+  398  cat data.sh | cut -d " " -f1 f4
+  399  cat data.sh | cut -d " " -f1f4
+  400  cat data.sh | cut -d " " -f1,f4
+  401  cat data.sh | cut -d " " -f1 4
+  402  cat data.sh | cut -d " " -f1 -f4
+  403  cat data.sh | cut -d " " -f1f4
+  404  cat data.sh | cut -d " " -f1 -f4
+  405  cat data.sh | cut -d " " -f 24
+  406  cat data.sh | cut -d " " -f 14
+  407  clear
+  408  cat data.sh | cut -d " " -f1,2
+  409  cat data.sh | cut -d " " -f1,4
+  410  clear
+  411  cat data.sh | cut -d " " -f1 >> output.txt
+  412  echo 'cat data.sh | cut -d " " -f1' >> output.txt
+  413  cut -d " " -f1 data.txt >> output.txt
+  414  echo 'cat data.sh | cut -d " " -f1' >> output.txt
+  415  echo 'cat data.sh | cut -d " " -f1' >> cut-data-by-name.sh 
+  416  echo 'cat data.sh | cut -d " " -f1' >> output.txt
+  417  ls
+  418  sh cut-data-by-name.sh 
+  419  clear
+  420  cd ..
+  421  git status
+  422  cd shell-scripts-1/
+  423  cd ..
+  424  git status
+  425  git add .
+  426  git status
+  427  git commit -m "Feb 20, 2020"
+  428  git push origin master
+  429  uname
+  430  cd Desktop/
+  431  ls
+  432  stat test.txt 
+  433  man uname
+  434  clear
+  435  uname
+  436  uname -h
+  437  clear
+  438  man uname
+  439  uname -s
+  440  uname -i
+  441  man uname
+  442  uname -a
+  443  man uname
+  444  uname -o
+  445  ls
+  446  cat test.txt 
+  447  gedit test.txt 
+  448  cd Repo/
+  449  ls
+  450  cd shell-scripts-1/
+  451  ls
+  452  cat data.sh 
+  453  cp data.sh ..
+  454  ls
+  455  cd ..
+  456  ls
+  457  cat data.sh 
+  458  clear
+  459  ls
+  460  mkdir sed
+  461  ls
+  462  cd sed/
+  463  clear
+  464  echo "My name is Ravi Kant Pujari. i am from Rajasthan." | sed 's/i/I'
+  465  echo "My name is Ravi Kant Pujari. i am from Rajasthan." | sed -e 's/i/I'
+  466  echo "My name is Ravi Kant Pujari. i am from Rajasthan." | sed `s/i/I`
+  467  clear
+  468  echo "My name is Ravi Kant Pujari. i am from Rajasthan." | sed 's/i/I/'
+  469  clear
+  470  cat ../data.sh 
+  471  sed 's/Name/NAME/' ../data.sh 
+  472  clear
+  473  sed 's/Ahmedabad/AHMEDABAD/' ../data.sh 
+  474  cat ../data.sh 
+  475  clear
+  476  cat
+  477  clear
+  478  cat ../data.sh 
+  479  cat -e 's/Name/NAME/; s/Email/EMAIL/; s/City/CITY/; s/Mobile/MOBILE/' ../data.sh 
+  480  clear
+  481  cat ../data.sh 
+  482  sed -e 's/Name/NAME/; s/Email/EMAIL/; s/City/CITY/; s/Mobile/MOBILE/' ../data.sh 
+  483  cleaer
+  484  clear
+  485  cat ../data.sh 
+  486  sed -e '
+  487  s/Name/NAME/
+  488  s/Email/EMAIL/
+  489  s/City/CITY/
+  490  s/Mobile/MOBILE/' ../data.txt
+  491  clear
+  492  cat > fd_rp
+  493  cat fd_rp 
+  494  cat ../data.sh 
+  495  vi ../data.sh 
+  496  vi fd_rp 
+  497  clear
+  498  cat ../data.sh 
+  499  sed -e '
+  500  s/Name/NAME/
+  501  s/Email/EMAIL/
+  502  s/City/CITY/
+  503  s/Mobile/MOBILE/' ../data.sh
+  504  clear
+  505  cat ../data.sh 
+  506  sed -f fd_rp ../data.sh 
+  507  clear
+  508  cd ..
+  509  ls -a
+  510  git status
+  511  git -add sed/
+  512  clear
+  513  git add sed/
+  514  git status
+  515  cd sed/
+  516  sed -f fd_rp ../data.sh 
+  517  clear
+  518  git status
+  519  cd ..
+  520  git status
+  521  git add sed/
+  522  git status
+  523  git commit -m "Feb 22, 2020"
+  524  git push origin master
+  525  clear
+  526  cd sed/
+  527  ls
+  528  cat > sed_sh.sh
+  529  cd ..
+  530  git status
+  531  git add sed/
+  532  git status
+  533  git commit -m "Feb 22, 2020"
+  534  git push origin master
+  535  cd Desktop/Repo/
+  536  ls
+  537  cd sed/
+  538  ls
+  539  gedit sed_readme.sh 
+  540  clear
+  541  ls
+  542  sh sed_ex1.sh 
+  543  clear
+  544  sh sed_ex1.sh 
+  545  sh sed_ex2.sh 
+  546  clear
+  547  man sed
+  548  sh sed_ex2.sh 
+  549  ls
+  550  clear
+  551  sh sed_ex3.sh 
+  552  mv ../data.sh .
+  553  ls
+  554  sh sed_ex3.sh 
+  555  clear
+  556  sed 's/Ahmedabad/AHEMDABAD/2' data.sh 
+  557  sed 's/Ahmedabad/AHEMDABAD/1' data.sh 
+  558  sed 's/Ahmedabad/AHEMDABAD/0' data.sh 
+  559  clear
+  560  ed 's/Ahmedabad/AHEMDABAD/1' data.sh 
+  561  clear
+  562  ed 's/Ahmedabad/AHEMDABAD/1' data.sh 
+  563  sed 's/Ahmedabad/AHEMDABAD/1' data.sh 
+  564  sed 's/Ahmedabad/AHEMDABAD/1/' data.sh 
+  565  sed 's/Ahmedabad/AHEMDABAD/1' data.sh 
+  566  clear
+  567  sed 's/Ahmedabad/AHEMDABAD/g' data.sh 
+  568  sed -n 's/Ahmedabad/AHMEDABAD/p' data.sh 
+  569  clear
+  570  sed 's/Ahmedabad/AHMEDABAD/p' data.sh 
+  571  cat data.sh 
+  572  clear
+  573  sh sed_p_sub.sh 
+  574  sh sed_g_sub.sh 
+  575  clear
+  576  sh sed_w_sub.sh 
+  577  ls
+  578  cat ouput.txt 
+  579  clear
+  580  mv ouput.txt output.txt
+  581  ls
+  582  clear
+  583  cat data.sh 
+  584  sed '2s/Ah/AH/' data.sh 
+  585  sed '1s/Ah/AH/' data.sh 
+  586  sed '0s/Ah/AH/' data.sh 
+  587  sed '0s/Ahmedabad/AHMEDABAD/' data.sh 
+  588  sed '1s/Ahmedabad/AHMEDABAD/' data.sh 
+  589  sed '1,5s/Ahmedabad/AHMEDABAD/' data.sh 
+  590  sed '3s/Ahmedabad/AHMEDABAD/' data.sh 
+  591  sed '2d' data.sh 
+  592  sed '2,3d' data.sh 
+  593  sed '1,2d' data.sh 
+  594  clear
+  595  sh sed_range.sh 
+  596  clear
+  597  sh sed_del.sh 
+  598  echo "hello" | sed 'i\' data.sh 
+  599  clear
+  600  sed 'i\first\' data.sh 
+  601  clear
+  602  sh sed_insert.sh 
+  603  clear
+  604  sh sed_insert.sh 
+  605  clear
+  606  sh sed_op_append.sh 
+  607  clear
+  608  sh sed_op_append.sh 
+  609  clear
+  610  sh sed_op_modify.sh 
+  611  clear
+  612  cd ..
+  613  ls -a
+  614  clear
+  615  git status
+  616  git add sed/
+  617  git status
+  618  git commit -m "Feb 22, 2020"
+  619  git status
+  620  git push origin master
+  621  cd ..
+  622  ls
+  623  clear
+  624  cat test.txt 
+  625  gedit test.txt 
+  626  mv test.txt test.c
+  627  gcc -c test.c 
+  628  gcc test.o -o test.out
+  629  ./test.out 
+  630  clear
+  631  gcc -c test.c 
+  632  gcc test.o -o test.out
+  633  ./test.out 
+  634  ./test.out hello
+  635  gcc -c test.c 
+  636  clear
+  637  gcc -c test.c 
+  638  clear
+  639  gcc -c test.c 
+  640  gcc test.o -o test.out
+  641  ./test.out hello
+  642  gcc -c test.c 
+  643  clear
+  644  ls
+  645  rm -rf test.o test.out 
+  646  ls
+  647  cd Repo/
+  648  mkdir links
+  649  cd links/
+  650  gedit hard_link.sh
+  651  sh hard_link.sh ra
+  652  sh hard_link.sh ra vi ka nt
+  653  sh hard_link.sh ra vi
+  654  sh hard_link.sh ra
+  655  clear
+  656  ls
+  657  ls ..
+  658  cp ../sed/data.sh .
+  659  ls
+  660  sh hard_link.sh
+  661  sh hard_link.sh data.sh 
+  662  ls
+  663  ls -l
+  664  ls -lia
+  665  ls -li
+  666  sh hard_link.sh data.sh 
+  667  clear
+  668  sh hard_link.sh data.sh 
+  669  ls
+  670  ls -li
+  671  rm hard_linkdata.sh 
+  672  clear
+  673  sh hard_link.sh data.sh 
+  674  ls
+  675  rm -rf hard_link_data.sh 
+  676  ls
+  677  sh hard_link.sh data.sh 
+  678  ls
+  679  rm data.sh_hard_link 
+  680  clear
+  681  sh hard_link.sh data.sh 
+  682  ls
+  683  ls -li
+  684  man ln
+  685  clear
+  686  ls
+  687  mv ../../../soft_link.sh ./
+  688  ls
+  689  clear
+  690  sh soft_link.sh data.sh 
+  691  ls -li
+  692  cat soft_link_data.sh 
+  693  cp data.sh data_copy.sh
+  694  rm data.sh 
+  695  ls -li
+  696  cat soft_link_data.sh 
+  697  mv data_copy.sh data.sh
+  698  ls
+  699  ls -li
+  700  cat soft_link_data.sh 
+  701  ls
+  702  mv hard_link.sh create_h_link.sh
+  703  mv soft_link.sh create_s_link.sh
+  704  ls
+  705  clear
+  706  ls
+  707  ls -li
+  708  cd ..
+  709  ls
+  710  git status
+  711  git add links/
+  712  ls
+  713  git status
+  714  git commit -m "Feb 22, 2020"
+  715  git status
+  716  git push origin master
+  717  exit
+  718  cd Desktop/
+  719  ls
+  720  cd Repo/
+  721  ls
+  722  mkdir FILE_IO
+  723  cd FILE_IO/
+  724  clear
+  725  ls
+  726  gcc -c open.c 
+  727  gcc open.o -o open.out
+  728  ./open.out 
+  729  gcc -c creat.c 
+  730  gcc creat.o -o creat.out
+  731  ./creat.out 
+  732  ls
+  733  ./creat.out test.txt
+  734  ls
+  735  gcc -c creat.c 
+  736  gcc creat.o -o creat.out
+  737  ./creat.out test.txt
+  738  ls
+  739  clear
+  740  gcc -c creat.c 
+  741  gcc creat.o -o creat.out
+  742  ./creat.out test.txt
+  743  gcc -c creat.c 
+  744  gcc creat.o -o creat.out
+  745  ./creat.out test.txt
+  746  gcc -c creat.c 
+  747  gcc creat.o -o creat.out
+  748  ./creat.out test.txt
+  749  gcc -c creat.c 
+  750  gcc creat.o -o creat.out
+  751  ./creat.out test.txt
+  752  gcc -c creat.c 
+  753  gcc creat.o -o creat.out
+  754  ./creat.out test.txt
+  755  ls
+  756  rm test.txt 
+  757  clear
+  758  ls
+  759  ./creat.out test.txt
+  760  ls
+  761  gcc -c creat.c 
+  762  gcc creat.o -o creat.out
+  763  ./creat.out test.txt
+  764  ls -l test.txt 
+  765  gcc -c creat.c 
+  766  gcc creat.o -o creat.out
+  767  ./creat.out test.txt
+  768  ls
+  769  cat test.txt 
+  770  gcc -c creat.c 
+  771  gcc creat.o -o creat.out
+  772  ./creat.out test.txt
+  773  cat test.txt 
+  774  rm *.o
+  775  clear
+  776  ls
+  777  rm *.out
+  778  gcc -c creat.c 
+  779  gcc creat.o -o creat.out
+  780  ./creat.out 
+  781  gcc -c creat.c 
+  782  gcc creat.o -o creat.out
+  783  ./creat.out 
+  784  gcc -c creat.c 
+  785  gcc creat.o -o creat.out
+  786  ./creat.out 
+  787  gcc -c creat.c 
+  788  gcc creat.o -o creat.out
+  789  ./creat.out 
+  790  clear
+  791  gcc -c creat.c 
+  792  gcc creat.o -o creat.out
+  793  ./creat.out 
+  794  ls
+  795  rm test.txt 
+  796  ls
+  797  clear
+  798  ./creat.out test.txt
+  799  cat test.txt 
+  800  gcc -c creat.c 
+  801  gcc creat.o -o creat.out
+  802  ./creat.out test.txt ravikant
+  803  cat test.txt 
+  804  ./creat.out test.txt
+  805  cat test.txt 
+  806  clear
+  807  ./creat.out test.txt ravikant
+  808  cat test.txt 
+  809  clear
+  810  gcc -c lseek.c 
+  811  clear
+  812  gcc -c write.c 
+  813  gcc write.o -o write.out
+  814  ./write.out test.txt hello world
+  815  cat test.txt 
+  816  gcc -c write.c 
+  817  ./write.out test.txt hello world
+  818  gcc write.o -o write.out
+  819  ./write.out test.txt hello world
+  820  clear
+  821  gcc -c write.c 
+  822  gcc write.o -o write.out
+  823  ./write.out test.txt hello world
+  824  cat test.txt 
+  825  gcc -c write.c 
+  826  gcc write.o -o write.out
+  827  ./write.out test.txt hello world
+  828  cat test.txt 
+  829  rm -rf *.o
+  830  ls
+  831  rm -rf *.out
+  832  ls
+  833  rm -rf lseek.c 
+  834  ls
+  835  clear
+  836  ls
+  837  gcc -c read.c
+  838  gcc read.o -o read.out
+  839  ./read.out 
+  840  clear
+  841  gcc -c read.c
+  842  gcc read.o -o read.out
+  843  ./read.out test.txt
+  844  gcc -c read.c
+  845  gcc read.o -o read.out
+  846  ./read.out test.txt
+  847  gcc -c read.c
+  848  gcc read.o -o read.out
+  849  ./read.out test.txt
+  850  gcc -c read.c
+  851  gcc read.o -o read.out
+  852  ./read.out test.txt
+  853  clear
+  854  gcc -c dup.c
+  855  gcc dup.o -o dup.out
+  856  ./dup.out 
+  857  gcc -c dup.c
+  858  gcc dup.o -o dup.out
+  859  ./dup.out 
+  860  cat test.txt 
+  861  clear
+  862  gcc -c dup.c
+  863  gcc dup.o -o dup.out
+  864  ./dup.out 
+  865  cat test.txt 
+  866  gcc -c dup.c
+  867  gcc dup.o -o dup.out
+  868  ./dup.out 
+  869  cat test.txt 
+  870  clear
+  871  gcc -c dup.c
+  872  gcc dup.o -o dup.out
+  873  cat test.txt 
+  874  ./dup.out 
+  875  cat test.txt 
+  876  gcc -c dup.c
+  877  gcc dup.o -o dup.out
+  878  ./dup.out 
+  879  cat test.txt 
+  880  clar
+  881  clear
+  882  gcc -c dup.c
+  883  gcc dup.o -o dup.out
+  884  ./dup.out 
+  885  cat test.txt 
+  886  gcc -c dup.c
+  887  gcc dup.o -o dup.out
+  888  ./dup.out 
+  889  cat test.txt 
+  890  gcc -c dup.c
+  891  gcc dup.o -o dup.out
+  892  ./dup.out 
+  893  cat test.txt 
+  894  clear
+  895  gcc -c dup2.c 
+  896  gcc dup2.o -o dup2.out
+  897  ./dup2.out 
+  898  cat test.txt 
+  899  ./dup.out 
+  900  cat test.txt 
+  901  gcc -c dup2.c 
+  902  gcc dup2.o -o dup2.out
+  903  ./dup2.out
+  904  cat test.txt 
+  905  clear
+  906  ./dup2.out
+  907  cat test.txt 
+  908  gcc -c dup2.c 
+  909  gcc dup2.o -o dup2.out
+  910  ./dup2.out
+  911  cat test.txt 
+  912  ./dup.out
+  913  ./dup2.out
+  914  cat test.txt 
+  915  clear
+  916  ls
+  917  clear
+  918  ls
+  919  gcc -c stat_links.c 
+  920  gcc stat_links.o -o stat_links.out
+  921  ./stat_links.out 
+  922  ls
+  923  ls ..
+  924  ls ../links/
+  925  ls -l ../links/
+  926  ./stat_links.out ../links/data.sh 
+  927  clear
+  928  ls -li ../links/
+  929  ./stat_links.out ../links/data.sh 
+  930  gcc -c stat_links.c 
+  931  gcc stat_links.o -o stat_links.out
+  932  ./stat_links.out ../links/data.sh 
+  933  clear
+  934  gcc -c stat_links.c 
+  935  gcc stat_links.o -o stat_links.out
+  936  ./stat_links.out ../links/data.sh 
+  937  ls -li ../links/
+  938  cd ../links/
+  939  ls
+  940  rm soft_link_data.sh 
+  941  ls
+  942  cat create_s_link.sh 
+  943  clear
+  944  sh create_s_link.sh data.sh 
+  945  ls
+  946  cd ../FILE_IO/
+  947  ls
+  948  ./stat_links.out ../links/
+  949  ls -li ../links/
+  950  ./stat_links.out ../links/data.sh 
+  951  clear
+  952  ./stat_links.out ../links/data.sh 
+  953  ls -li ../links/
+  954  clear
+  955  gcc -c stat_all.c 
+  956  gcc stat_all.o -o stat_all.out
+  957  ./stat_all.out ../links/data.sh 
+  958  gcc -c stat_all.c 
+  959  ./stat_all.out ../links/data.sh 
+  960  gcc -c stat_all.c 
+  961  gcc stat_all.o -o stat_all.out
+  962  clear
+  963  ./stat_all.out ../links/data.sh 
+  964  gcc -c stat_all.c 
+  965  gcc stat_all.o -o stat_all.out
+  966  ./stat_all.out ../links/data.sh 
+  967  clear
+  968  ls
+  969  rm read.out 
+  970  ls
+  971  rm -rf *.o
+  972  ls
+  973  clear
+  974  ls -l
+  975  gcc -c access.c 
+  976  gcc access.o -o ac
+  977  ls
+  978  rm ac
+  979  clear
+  980  ls -l
+  981  gcc -c access.c 
+  982  gcc access.o -o ac
+  983  rm ac
+  984  gcc -c access.c 
+  985  gcc access.o -o access.out
+  986  ./access.out
+  987  ./access.out dup2.c 
+  988  gcc -c access.c 
+  989  gcc access.o -o access.out
+  990  ./access.out dup2.c
+  991  ls -l
+  992  gcc -c access.c 
+  993  gcc access.o -o access.out
+  994  ./access.out dup2.c
+  995  clear
+  996  gcc -c access.c 
+  997  clear
+  998  gcc -c access.c 
+  999  gcc access.o -o access.out
+ 1000  ./access.out dup2.c
+ 1001  gcc -c access.c 
+ 1002  gcc access.o -o access.out
+ 1003  ./access.out dup2.c
+ 1004  gcc -c access.c 
+ 1005  ./access.out dup2.c
+ 1006  gcc -c access.c 
+ 1007  gcc access.o -o access.out
+ 1008  ./access.out dup2.c
+ 1009  gcc -c access.c 
+ 1010  gcc access.o -o access.out
+ 1011  ./access.out dup2.c
+ 1012  ls -l dup2.c 
+ 1013  clear
+ 1014  gcc -c pwd.c 
+ 1015  gcc pwd.o -o pwd.out
+ 1016  ./pwd.out 
+ 1017  pwd
+ 1018  gcc -c cwd.c 
+ 1019  gcc cwd.o -o cwd.out
+ 1020  ./cwd.out 
+ 1021  gcc -c cwd.c 
+ 1022  gcc cwd.o -o cwd.out
+ 1023  ./cwd.out 
+ 1024  gcc -c cwd.c 
+ 1025  gcc cwd.o -o cwd.out
+ 1026  ./cwd.out 
+ 1027  gcc -c cwd.c 
+ 1028  gcc cwd.o -o cwd.out
+ 1029  ./cwd.out 
+ 1030  clear
+ 1031  gcc -c cwd.c 
+ 1032  gcc cwd.o -o cwd.out
+ 1033  ./cwd.out 
+ 1034  pwd
+ 1035  ls
+ 1036  rm *.o
+ 1037  ls
+ 1038  ls -X
+ 1039  ls *.out
+ 1040  mv getc.c getchar.c
+ 1041  gcc -c getchar.c 
+ 1042  gcc getchar.o -o getchar.out
+ 1043  ./getchar.out 
+ 1044  ./getchar.out test.txt 
+ 1045  clear
+ 1046  cat test.txt 
+ 1047  gcc -c getchar.c 
+ 1048  gcc getchar.o -o getchar.out
+ 1049  ./getchar.out dup2.c
+ 1050  gcc -c getchar.c 
+ 1051  gcc getchar.o -o getchar.out
+ 1052  ./getchar.out dup2.c
+ 1053  gcc -c getchar.c 
+ 1054  gcc getchar.o -o getchar.out
+ 1055  ./getchar.out dup2.c
+ 1056  gcc -c getchar.c 
+ 1057  gcc getchar.o -o getchar.out
+ 1058  ./getchar.out dup2.c
+ 1059  cat dup2.c
+ 1060  clear
+ 1061  ./getchar.out dup2.c
+ 1062  gcc -c getchar.c 
+ 1063  ./getchar.out dup2.c
+ 1064  gcc getchar.o -o getchar.out
+ 1065  ./getchar.out dup2.c
+ 1066  gcc -c getchar.c 
+ 1067  gcc getchar.o -o getchar.out
+ 1068  ./getchar.out dup2.c
+ 1069  gcc -c getline.c 
+ 1070  clear
+ 1071  gcc -c getline.c 
+ 1072  gcc getline.o -o getline.out
+ 1073  ./getline.out dup2.c
+ 1074  ls
+ 1075  rm *.o
+ 1076  ls
+ 1077  history | grep git
+ 1078  cd ..
+ 1079  git status
+ 1080  git add .
+ 1081  git status 
+ 1082  git commit -m "Feb 26, 2020"
+ 1083  git status 
+ 1084  git push origin master
+ 1085  exit
+ 1086  cd Desktop/
+ 1087  ls
+ 1088  stat daiict_id.txt 
+ 1089  ln daiict_id.txt 
+ 1090  ls
+ 1091  ln daiict_id.txt abc
+ 1092  ls
+ 1093  ls -li
+ 1094  cat daiict_id.txt 
+ 1095  cat abc
+ 1096  rm daiict_id.txt 
+ 1097  cat abc
+ 1098  mv abc daiict_id.txt
+ 1099  cat daiict_id.txt 
+ 1100  clear
+ 1101  ls -li
+ 1102  ln -s daiict_id.txt abc
+ 1103  ls -li
+ 1104  cat abc
+ 1105  cat daiict_id.txt 
+ 1106  rm daiict_id.txt 
+ 1107  ls li
+ 1108  ls -li
+ 1109  cat abc 
+ 1110  ln daiict_id.txt abc
+ 1111  rm abc
+ 1112  ln daiict_id.txt abc
+ 1113  gedit daiict_id.txt 
+ 1114  ls -li
+ 1115  cat abc
+ 1116  cat daiict_id.txt 
+ 1117  gedit daiict_id.txt 
+ 1118  cat abc
+ 1119  clear
+ 1120  cd Repo/links/
+ 1121  ls
+ 1122  cat create_h_link.sh 
+ 1123  mv create_h_link.sh create_h_link_cmd.sh 
+ 1124  mv create_s_link.sh create_s_link_cmd.sh 
+ 1125  ls
+ 1126  cd ..
+ 1127  cd FILE_IO/
+ 1128  ls
+ 1129  cd ..
+ 1130  ls
+ 1131  mv links/ ln/
+ 1132  ls
+ 1133  cd FILE_IO/
+ 1134  cd links/
+ 1135  ls
+ 1136  clear
+ 1137  gcc -c cr_hlink.c 
+ 1138  gcc -o cr_hlink.o cr_hlink.out
+ 1139  clear
+ 1140  gcc cr_hlink.o -o cr_hlink.out
+ 1141  touch abc.txt
+ 1142  ls -l
+ 1143  ./cr_hlink.out abc.txt abc2.txt
+ 1144  ls
+ 1145  ls -li
+ 1146  rm ab*
+ 1147  ls
+ 1148  ls -li
+ 1149  cp cr_hlink.c cr_slink.c
+ 1150  gcc -c cr_slink.c 
+ 1151  gcc cr_slink.o -o cr_slink.out
+ 1152  touch abc.txt
+ 1153  ./cr_slink.out abc.txt abc2.txt
+ 1154  ls -li
+ 1155  rm *.o
+ 1156  ls
+ 1157  ls -li
+ 1158  rm ab*
+ 1159  ls -li
+ 1160  history > data.txt
