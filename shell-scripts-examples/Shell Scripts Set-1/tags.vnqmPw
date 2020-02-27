@@ -1,0 +1,2 @@
+cmddate	ss1.sh	/^cmddate()$/;"	f
+cmdls	ss1.sh	/^cmdls()$/;"	f
